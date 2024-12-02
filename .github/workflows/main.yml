@@ -17,10 +17,10 @@ jobs:
       - name: deploy
         uses: pressidium/lftp-mirror-action@v1
         with:
-          host: ${{ secrets.FTP_SERVER }}
-          port: ${{ secrets.FTP_PORT }}
-          user: ${{ secrets.FTP_USERNAME }}
-          pass: ${{ secrets.FTP_PASSWORD }}
+          host: ${{ secrets.SFTP_HOST }}
+          port: ${{ secrets.SFTP_PORT }}
+          user: ${{ secrets.SFTP_USER }}
+          pass: ${{ secrets.SFTP_PASS }}
           # lftp settings
           onlyNewer: true
           settings: 'sftp:auto-confirm=yes'
@@ -30,3 +30,6 @@ jobs:
           reverse: true
           ignoreFile: '.lftp_ignore'
           options: '--verbose'
+
+
+          
