@@ -1,18 +1,32 @@
-name: FTP Test
+name: Deploy via SFTP
 on:
   push:
+    branches:
+      - main
 jobs:
-  ci:
+  deploy:
+    name: Deploy
     runs-on: ubuntu-latest
+    if: github.event_name == 'push'
     steps:
-      - uses: actions/checkout@v2
-      - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          git-ftp-args: --insecure
-          ftp-server: ${{ secrets.FTP_SERVER }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          ftp-0port: ${{ secrets.FTP_PORT }}
-          local-dir: '/public/'
-          server-dir: '/var/www/my_webapp/www/'
+          fetch-depth: 0
+
+      - name: deploy
+        uses: pressidium/lftp-mirror-action@v1
+        with:
+          host: ${{ secrets.FTP_SERVER }}
+          port: ${{ secrets.FTP_PORT }}
+          user: ${{ secrets.FTP_USERNAME }}
+          pass: ${{ secrets.FTP_PASSWORD }}
+          # lftp settings
+          onlyNewer: true
+          settings: 'sftp:auto-confirm=yes'
+          # Mirror command options
+          localDir: './public/'
+          remoteDir: './var/www/my_webapp/www/'
+          reverse: true
+          ignoreFile: '.lftp_ignore'
+          options: '--verbose'
