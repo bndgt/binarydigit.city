@@ -9,12 +9,12 @@ jobs:
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
-          ftp-server: ${{ secrets.FTP_SERVER }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          ftp-port: ${{ secrets.FTP_PORT }}
-          local-dir: 'public'
-          remoteDir: '/var/www/my_webapp/www/'
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ secrets.FTP_PORT }}
+          local-dir: '/public/'
+          server-dir: '/var/www/my_webapp/www/'
       # - run: echo "ls" | ftp ${{ env.FTP_USER_NAME }}:${{ env.FTP_USER_PASS }}@ftp-server/ftp
       # - name: file*delete.md
       #   uses: ./.github/actions/ftp-delete-action
