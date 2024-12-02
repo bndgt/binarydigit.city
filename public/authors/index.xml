@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on B&#39; Digital Garden</title>
+    <title>Authors on B&#39;s Digital Garden</title>
     <link>http://localhost:1313/authors/</link>
-    <description>Recent content in Authors on B&#39; Digital Garden</description>
+    <description>Recent content in Authors on B&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>https://letterbird.co/binarydigit (BinaryDigit)</managingEditor>

@@ -1,8 +1,8 @@
 ---
-title:  "Beginning a Garden"
+title:  "Beginning a Garden 🌱"
 date:   "2024-12-02"
 draft:  false
-summary: "A garden within a city, ever growing and changing."
+summary: "A garden within a city."
 tags: ["thoughts"]
 ---
 Finally, a start to the garden I've been meaning to tend to.

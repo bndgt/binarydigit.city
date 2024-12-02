@@ -2,24 +2,24 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "B' Digital Garden"
+title = "B's Digital Garden"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2 2006"
-  logo = "seedling.png"
-  secondaryLogo = "seedling.png"
+  logo = "seedling-animated.gif"
+  secondaryLogo = "seedling-animated.gif"
   description = "BinaryDigit"
   #copyright = "BinaryDigit 2024"
 
 [params.author]
    name = "BinaryDigit"
    email = "https://letterbird.co/binarydigit"
-   image = "avatar.png"
+   image = "seedling-heart-emojikitchen.png"
    imageQuality = 100
-   headline = "Welcome to my always changing collection of notes, links, and personal knowledgebase."
+   headline = "Welcome to my always changing collection of notes, links, and personal knowledge."
    bio = "A creative spirit stuck in tech burnout."
    links = [
     { envelope = "https://letterbird.co/binarydigit" },
@@ -34,7 +34,6 @@ title = "B' Digital Garden"
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/profile" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
@@ -73,6 +72,5 @@ title = "B' Digital Garden"
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
-#     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
