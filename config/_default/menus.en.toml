@@ -17,7 +17,7 @@
  
 [[main]]
 #  name = "RSS"
- pageRef = "index.xml"
+ url = "index.xml"
  pre = "rss"
  weight = 90
 
