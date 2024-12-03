@@ -27,9 +27,9 @@ jobs:
           # Mirror command options
           localDir: './public/'
           remoteDir: './var/www/my_webapp/www/'
-          reverse: true
-          ignoreFile: '.lftp_ignore'
-          options: '--verbose'
+          # reverse: true
+          # ignoreFile: '.lftp_ignore'
+          # options: '--verbose'
 
 
           
