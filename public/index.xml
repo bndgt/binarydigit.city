@@ -6,15 +6,15 @@
     <description>Recent content on B&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>https://letterbird.co/binarydigit (BinaryDigit)</managingEditor>
-    <webMaster>https://letterbird.co/binarydigit (BinaryDigit)</webMaster>
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
     <copyright>© 2024 BinaryDigit</copyright>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning a Garden 🌱</title>
       <link>http://localhost:1313/posts/beginning/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <author>https://letterbird.co/binarydigit (BinaryDigit)</author>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
       <guid>http://localhost:1313/posts/beginning/</guid>
       <description>A garden within a city.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/beginning/feature-beginning.png" />
@@ -24,7 +24,7 @@
       <title>About 🌱</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <author>https://letterbird.co/binarydigit (BinaryDigit)</author>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
       <guid>http://localhost:1313/about/</guid>
       <description>All about this website.</description>
       
