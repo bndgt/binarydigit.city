@@ -1,0 +1,11 @@
+- name: Checkout
+  uses: actions/checkout@v4
+- name: SFTP upload
+  uses: Dylan700/sftp-upload-action@latest
+  with:
+    server: ${{secrets.server}}
+    username: ${{secrets.username}}
+    password: ${{secrets.password}}
+    port: ${{secrets.port}}
+    uploads: |
+    ./public/ => ./var/www/my_webapp/www/
