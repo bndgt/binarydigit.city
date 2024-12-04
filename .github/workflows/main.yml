@@ -7,5 +7,4 @@
     username: ${{secrets.username}}
     password: ${{secrets.password}}
     port: ${{secrets.port}}
-    uploads: |
-    ./public/ => ./var/www/my_webapp/www/
+    uploads: ./public/ => ./var/www/my_webapp/www/
