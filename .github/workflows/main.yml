@@ -1,8 +1,34 @@
-- name: SFTP Upload
-uses: Dylan700/sftp-upload-action@v1.2.3
-  with:
-    server: ${{secrets.server}}
-    username: ${{secrets.username}}
-    password: ${{secrets.password}}
-    port: ${{secrets.port}}
-    uploads: /public/ => /var/www/my_webapp/www/
+name: Deploy via SFTP
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Deploy files via SFTP
+        uses: pressidium/lftp-mirror-action@v1
+        with:
+          # SFTP credentials
+          host: ${{ secrets.SERVER }}
+          port: ${{ secrets.PORT }}
+          user: ${{ secrets.USERNAME }}
+          pass: ${{ secrets.PASSWORD }}
+          # lftp settings
+          onlyNewer: true
+          settings: 'sftp:auto-confirm=yes'
+          # Mirror command options
+          localDir: '/public/'
+          remoteDir: '/var/www/my_webapp/www/'
+          reverse: true
+          ignoreFile: '.lftp_ignore'
+          options: '--verbose'
+
