@@ -2,8 +2,10 @@
 title:  'About 🌱'
 date: '2024-12-01'
 draft:  false
+layout: 'simple'
 summary: All about this website.
 ---
+
 
 This site is powered by the SSG [Hugo](https://gohugo.io) and [Blowfish](https://blowfish.page). It's perfect for a mix of organization and extremely well done templating.
 

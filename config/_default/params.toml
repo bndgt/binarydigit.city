@@ -22,13 +22,13 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "garden-bg.png" # used as default for background images 
-defaultFeaturedImage = "garden-bg.png" # used as default for featured images in all articles
+defaultFeaturedImage = "featured-bg.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
-#giteaDefaultServer = "https://gitea"
+#giteaDefaultServer = "https://git.fsfe.org"
 #forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
@@ -86,11 +86,11 @@ defaultFeaturedImage = "garden-bg.png" # used as default for featured images in 
 
 [list]
   showHero = false
-#  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
-  showSummary = true
+  showBreadcrumbs = false
+  showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = false
@@ -162,3 +162,7 @@ defaultFeaturedImage = "garden-bg.png" # used as default for featured images in 
   # pinterest = ""
   # yandex = ""
   # fediverse = ""
+
+[rssnext]
+  # feedId = ""
+  # userId = ""

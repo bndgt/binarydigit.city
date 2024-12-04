@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "B's Digital Garden"
+title = "A Digital Garden"
 
 [params]
   displayName = "EN"
@@ -11,25 +11,22 @@ title = "B's Digital Garden"
   dateFormat = "January 2 2006"
   logo = "seedling-animated.gif"
   secondaryLogo = "seedling-animated.gif"
-  description = "BinaryDigit"
-  #copyright = "BinaryDigit 2024"
+  description = "Liz"
+  #copyright = "Liz 2024"
 
 [params.author]
-   name = "BinaryDigit"
-   email = "hi@binarydigit.city"
-   image = "seedling-heart-emojikitchen.png"
+#   name = "Liz"
+#   email = ""
+   image = "avatar.png"
    imageQuality = 100
-   headline = "Welcome to my always changing collection of notes, links, and personal knowledge."
+   headline = "Always changing collection of imperfect notes, links, and ideas."
    bio = "A creative spirit stuck in tech burnout."
    links = [
-    { envelope = "mailto:hi@binarydigit.city" },
-    { globe = "https://binarydigit.city/" },
-    { mastodon = "https://social.lol/@binarydigit" },
-    { bluesky = "https://bsky.app/profile/binarydigit.city" },
-    { github = "https://github.com/bndgt" },
-    { pencil = "https://pencilbooth.com/binarydigit" },
-    { ko-fi = "https://ko-fi.com/binarydigit" },
-#     { email = "mailto:email@example.com" },
+          { envelope = "https://letterbird.co/liz" },
+          { mastodon = "https://allthingstech.social/@liz" },
+          { bluesky = "https://bsky.app/profile/liz.computer" },
+          { github = "https://github.com/bndgt" },
+#     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -72,5 +69,6 @@ title = "B's Digital Garden"
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-   ]
+]

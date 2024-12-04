@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on B&#39;s Digital Garden</title>
+    <title>Authors on A Digital Garden</title>
     <link>http://localhost:1313/authors/</link>
-    <description>Recent content in Authors on B&#39;s Digital Garden</description>
+    <description>Recent content in Authors on A Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
-    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
-    <copyright>© 2024 BinaryDigit</copyright>
+    <copyright>© 2024 </copyright>
     <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

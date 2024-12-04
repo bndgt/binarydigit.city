@@ -17,11 +17,11 @@
  
 [[main]]
 #  name = "RSS"
- url = "index.xml"
+ url = "https://liz.computer/index.xml"
  pre = "rss"
  weight = 90
-
-# [[main]]
+ 
+#[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
 #  pageRef = "posts"
@@ -44,12 +44,12 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-# [[main]]
+#[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
 #  weight = 20
 
-# [[main]]
+#[[main]]
 #  name = "Tags"
 #  pageRef = "tags"
 #  weight = 30
