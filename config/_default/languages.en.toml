@@ -15,10 +15,10 @@ title = "Liz's Digital Garden"
   copyright = "2024 Liz Rodriguez"
 
 [params.author]
-   name = "Liz"
-   email = "Liz@foobox.com"
-   image = "binaryavatar.png"
-   imageQuality = 100
+  #  name = "Liz"
+  #  email = "Liz@foobox.com"
+  #  image = "binaryavatar.png"
+  #  imageQuality = 100
    headline = "A collection of ever changing notes and ideas."
    bio = "A creative spirit stuck in tech burnout."
    links = [
