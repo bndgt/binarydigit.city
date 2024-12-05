@@ -18,7 +18,7 @@ replyByEmail = true
 robots = "robots.txt"
 
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "garden-bg.png" # used as default for background images 
@@ -43,7 +43,7 @@ defaultFeaturedImage = "featured-bg.png" # used as default for featured images i
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "featured-bg.png" # used in: hero, and card
+  homepageImage = "blank-garden.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
@@ -56,11 +56,11 @@ defaultFeaturedImage = "featured-bg.png" # used as default for featured images i
   showDate = false
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
-  showAuthor = false
+  showDateOnlyInArticle = true
+  showDateUpdated = true
+  showAuthor = true
   showSummary = true
-  #showAuthorBottom = false
+  showAuthorBottom = true
   showHero = true
   heroStyle = "thumb" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground

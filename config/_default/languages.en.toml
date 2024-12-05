@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "A Digital Garden"
+title = "Liz's Digital Garden"
 
 [params]
   displayName = "EN"
@@ -10,14 +10,14 @@ title = "A Digital Garden"
   rtl = false
   dateFormat = "January 2 2006"
   logo = "seedling-animated.gif"
-  secondaryLogo = "seedling-animated.gif"
-  description = "Liz"
-  #copyright = "Liz 2024"
+  secondaryLogo = "leaf-animated.gif"
+  description = "Liz's Digital Garden"
+  copyright = "2024 Liz Rodriguez"
 
 [params.author]
-#   name = "Liz"
-#   email = ""
-   image = "avatar.png"
+   name = "Liz"
+   email = "Liz@foobox.com"
+   image = "binaryavatar.png"
    imageQuality = 100
    headline = "Always changing collection of imperfect notes, links, and ideas."
    bio = "A creative spirit stuck in tech burnout."
