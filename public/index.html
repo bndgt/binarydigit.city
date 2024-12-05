@@ -412,6 +412,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   
   <div class="relative flex flex-col grow">
@@ -438,14 +448,6 @@
                         
                     
                     
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="/blank-garden.png" role="presentation">
-                    <div
-                        class="absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
-                    </div>
-                    <div
-                        class="opacity-60 absolute inset-0 h-[1000px] bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
-                    </div>
-                    
                 </div>
                 <div class="relative px-1 py-1 flex flex-col items-center justify-center text-center">
                     
@@ -458,7 +460,7 @@
                                 
                             
                             <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                                alt="Liz" src="/binaryavatar_hu9967133976686288896.png" />
+                                alt="Liz" src="/binaryavatar_hu11292309420113491430.png" />
                         
                     
                     <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">

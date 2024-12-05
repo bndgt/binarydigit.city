@@ -21,12 +21,12 @@ disableImageOptimization = false
 disableTextInHeader = true
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "garden-bg.png" # used as default for background images 
+defaultBackgroundImage = "blank-bg.png" # used as default for background images 
 defaultFeaturedImage = "featured-bg.png" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 #giteaDefaultServer = "https://git.fsfe.org"
 #forgejoDefaultServer = "https://v8.next.forgejo.org"

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=62264&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -17,7 +17,7 @@
   <meta name="robots" content="robots.txt" />
   
   
-  <link rel="canonical" href="http://localhost:1313/categories/" />
+  <link rel="canonical" href="http://localhost:62264/categories/" />
   
   <link rel="alternate" type="application/rss+xml" href="/categories/index.xml" title="Liz's Digital Garden" />
   
@@ -71,7 +71,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/categories/">
+  <meta property="og:url" content="http://localhost:62264/categories/">
   <meta property="og:site_name" content="Liz&#39;s Digital Garden">
   <meta property="og:title" content="Categories">
   <meta property="og:description" content="Liz&#39;s Digital Garden">
@@ -393,6 +393,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   
   <div class="relative flex flex-col grow">
@@ -489,7 +499,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/"
+  data-url="http://localhost:62264/"
   style="z-index:500"
 >
   <div
