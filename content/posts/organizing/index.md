@@ -1,11 +1,15 @@
 ---
-title:  'Other Gardeners 🌱'
+title:  'How to Organize 🌱'
 date: '2024-12-05'
 draft:  false
-summary: Who else does a garden or notebook?
+summary: 'How to organize this notebook?'
 tags: ["thoughts"]
-----
+# featureimagecaption: "Photo by Seaview N. on Unsplash"
+---
+ How to organize this notebook? Anything is possible with this template which is nice but also overwhelming. 
 
-Here's a list of others who are "digital gardeners" with the tools that they use.
 
-{{< github repo="MaggieAppleton/digital-gardeners" >}}
+
+ <small>
+Photo by <a href="https://unsplash.com/@inspiredbyart?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Seaview N.</a> on <a href="https://unsplash.com/photos/a-calendar-and-scissors-on-a-table-QfOQSM8nXCo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+</small>

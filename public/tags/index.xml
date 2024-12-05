@@ -6,6 +6,8 @@
     <description>Recent content in Tags on Liz&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>Liz@foobox.com (Liz)</managingEditor>
+    <webMaster>Liz@foobox.com (Liz)</webMaster>
     <copyright>2024 Liz Rodriguez</copyright>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +15,7 @@
       <title>Thoughts</title>
       <link>http://localhost:1313/tags/thoughts/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      
+      <author>Liz@foobox.com (Liz)</author>
       <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
       
