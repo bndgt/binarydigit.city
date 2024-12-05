@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Liz&#39;s Digital Garden</title>
-    <link>http://localhost:54106/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Liz&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Liz@foobox.com (Liz)</managingEditor>
     <webMaster>Liz@foobox.com (Liz)</webMaster>
     <copyright>2024 Liz Rodriguez</copyright>
-    <atom:link href="http://localhost:54106/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

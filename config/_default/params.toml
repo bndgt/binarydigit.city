@@ -17,9 +17,9 @@ replyByEmail = true
 # mainSections = ["section1", "section2"]
 robots = "robots.txt"
 
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = true
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
 defaultBackgroundImage = "blank-bg.png" # used as default for background images 
 defaultFeaturedImage = "featured-bg.png" # used as default for featured images in all articles
@@ -42,7 +42,7 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "page" # valid options: page, profile, hero, card, background, custom
   homepageImage = "hero-bg.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
