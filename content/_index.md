@@ -2,7 +2,8 @@
 # title: "Welcome to my digital garden 🌱"
 description: "A collection of ever changing notes and ideas."
 ---
-<script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@1.0.1/snow-fall.js"></script>
+
+<script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@latest/snow-fall.js"></script>
 <script type="module" defer>
 const snow = document.createElement('snow-fall');
 document.body.prepend(snow)
