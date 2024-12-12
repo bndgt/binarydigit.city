@@ -1,7 +1,0 @@
-- name: Deploy to Surfer
-  uses: addnab/docker-run-action@v3
-  with:
-    image: git.9wd.eu/9wd/surfer-action:latest
-    run: |
-    npm -g install cloudron-surfer
-    surfer put --token $SURFER_KEY --server test.binarydigit.media public/* /
