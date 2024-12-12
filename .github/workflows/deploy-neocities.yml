@@ -16,7 +16,7 @@ jobs:
     steps:
       # Install Hugo in the runner
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@latest
+        uses: peaceiris/actions-hugo@v3.0.0
         with:
           hugo-version: '0.139.0'
           extended: true
