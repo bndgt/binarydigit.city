@@ -35,7 +35,7 @@ I'm going to use Maggie Appleton's [categorization technique](https://maggieappl
 
 This site is powered by the SSG [Hugo](https://gohugo.io) and [Blowfish](https://blowfish.page). It's perfect for a mix of organization and extremely well done templating. 
 
-I use [Visual Studio Code](https://code.visualstudio.com/) to edit and host it on [Netlify](https://www.netlify.com/). My code is hosted on [GitHub](https://github.com/bndgt/garden/).
+I host it on [Neocities](https://neocities.org/site/binarydigit) and deploy it with GitHub actions.
 
 I subscribe to [Canva](https://canva.com) to edit the feature images and illustrations throughout the site.
 
