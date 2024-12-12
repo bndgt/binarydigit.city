@@ -25,4 +25,3 @@ deploy:
 
   only:
   - main
-
