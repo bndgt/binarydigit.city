@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Liz's Digital Garden"
+title = "B's Digital Garden"
 
 [params]
   displayName = "EN"
@@ -11,20 +11,20 @@ title = "Liz's Digital Garden"
   dateFormat = "January 2 2006"
   logo = "seedling-animated.gif"
   secondaryLogo = "leaf-animated.gif"
-  description = "Liz's Digital Garden"
-  copyright = "2024 Liz Rodriguez"
+  description = "B's Digital Garden"
+  copyright = "2024 BinaryDigit"
 
 [params.author]
-   name = "Liz"
-   email = "Liz@foobox.com"
+   name = "B"
+   email = "hi@binarydigit.city"
    image = "binaryavatar.png"
    imageQuality = 100
    headline = "A collection of ever changing notes and ideas."
    bio = "A creative spirit stuck in tech burnout."
    links = [
-          { envelope = "https://letterbird.co/liz" },
-          { mastodon = "https://allthingstech.social/@liz" },
-          { bluesky = "https://bsky.app/profile/liz.computer" },
+          { envelope = "https://letterbird.co/binarydigit" },
+          { mastodon = "https://social.lol/@binarydigit" },
+          { bluesky = "https://bsky.app/profile/binarydigit.city" },
           { github = "https://github.com/bndgt" },
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

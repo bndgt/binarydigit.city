@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Liz&#39;s Digital Garden</title>
+    <title>Series on B&#39;s Digital Garden</title>
     <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Liz&#39;s Digital Garden</description>
+    <description>Recent content in Series on B&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>Liz@foobox.com (Liz)</managingEditor>
-    <webMaster>Liz@foobox.com (Liz)</webMaster>
-    <copyright>2024 Liz Rodriguez</copyright>
+    <managingEditor>hi@binarydigit.city (B)</managingEditor>
+    <webMaster>hi@binarydigit.city (B)</webMaster>
+    <copyright>2024 BinaryDigit</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>

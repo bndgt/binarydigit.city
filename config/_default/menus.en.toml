@@ -17,7 +17,7 @@
  
 [[main]]
 #  name = "RSS"
- url = "https://liz.computer/index.xml"
+ url = "https://garden.binarydigit.city/index.xml"
  pre = "rss"
  weight = 90
  

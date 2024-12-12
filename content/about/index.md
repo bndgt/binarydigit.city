@@ -18,7 +18,7 @@ In my spare time I like to tinker with code on my personal websites, livestream 
 
 You can email me via this form or via "reply by email" on any page
 
-<script data-letterbirduser="liz" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
+<script data-letterbirduser="binarydigit" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
 
 
 ## Site Categorization

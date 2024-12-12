@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bookmarks on Liz&#39;s Digital Garden</title>
+    <title>Bookmarks on B&#39;s Digital Garden</title>
     <link>http://localhost:1313/bookmarks/</link>
-    <description>Recent content in Bookmarks on Liz&#39;s Digital Garden</description>
+    <description>Recent content in Bookmarks on B&#39;s Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>Liz@foobox.com (Liz)</managingEditor>
-    <webMaster>Liz@foobox.com (Liz)</webMaster>
-    <copyright>2024 Liz Rodriguez</copyright>
+    <managingEditor>hi@binarydigit.city (B)</managingEditor>
+    <webMaster>hi@binarydigit.city (B)</webMaster>
+    <copyright>2024 BinaryDigit</copyright>
     <atom:link href="http://localhost:1313/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Link</title>
       <link>http://localhost:1313/bookmarks/link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>Liz@foobox.com (Liz)</author>
+      <author>hi@binarydigit.city (B)</author>
       <guid>http://localhost:1313/bookmarks/link/</guid>
       <description>All about this website.</description>
       
