@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on B&#39;s Garden City</title>
+    <link>https://binarydigit.city/tags/tech/</link>
+    <description>Recent content in Tech on B&#39;s Garden City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
+    
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Always Tinkering</title>
+      <link>https://binarydigit.city/notes/always-tinkering/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/always-tinkering/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/always-tinkering/feature-tinkering.png" />
+    </item>
+    
+    <item>
+      <title>The Joy of Old Tech Shows</title>
+      <link>https://binarydigit.city/notes/the-joy-of-old-tech-shows/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/the-joy-of-old-tech-shows/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/the-joy-of-old-tech-shows/feature-techtv.png" />
+    </item>
+    
+  </channel>
+</rss>

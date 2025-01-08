@@ -14,31 +14,33 @@ In 2017 I pivoted to become a full time web developer and found my current place
 
 In my spare time I like to tinker with code on my personal websites, livestream music mixes and games, practice photography when I travel, and am interested in cyber security. I plan to build this website as a digital garden based on my experiences in tech, creative projects, hobbies, and notes from all aspects of my life.
 
-## Contact Me
+## Newsletter
 
-You can email me via this form or via "reply by email" on any page
+I've started a small creative newsletter where I share personal art, sketches, photos, and cool websites that I've discovered. Sign up if you'd like, no funny business here!
 
-<script data-letterbirduser="binarydigit" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
-
-
-## Site Categorization
-
-I'm going to use Maggie Appleton's [categorization technique](https://maggieappleton.com/garden-history#:~:text=This%20could%20be%20with%20a%20simple%20categorisation%20system.%20I%20personally%20use%20an%20overly%20horticultural%20metaphor):
-
-🌱 Seedlings for very rough and early ideas
-
-🌿 Budding for work that's cleaned up and clarified
-
-🌳 Evergreen for work that is reasonably complete
+<div style="display: none" class="pb-subscribe-form" data-org="5b1634bb-36a2-477a-96eb-d04ff16b5b7a" data-description="Subscribe for a letter from me to your inbox 💌" data-description-color="inherit" data-email-input-placeholder="Enter Email Address" data-submit-button-label="Subscribe" data-submit-button-text-color="inherit" data-submit-button-background-color="inherit" data-confirmation-title="You're In" data-confirmation-msg="Thank you for subscribing!" data-background-color="inherit" data-use-my-website-font="true"></div><script async src=https://pencilbooth.com/scripts/embed.js></script>
 
 ## Colophon
 
-This site is powered by the SSG [Hugo](https://gohugo.io) and [Blowfish](https://blowfish.page). It's perfect for a mix of organization and extremely well done templating. 
+This site is powered by the SSG [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) Hugo template.
 
-I host it on [Neocities](https://neocities.org/site/binarydigit) and deploy it with GitHub actions.
+Comments are powered by self-hosted [Commentario](https://comentario.app/). I might remove them at some point if they aren't useful.
+
+My [personal blog](https://blog.binarydigit.city) is hosted on [Pika.page](https://pika.page).
+
+I host this on [Neocities](https://neocities.org/site/binarydigit) and [Codeberg](https://codeberg.org/binarydigit) deploy it with Git hooks.
 
 I subscribe to [Canva](https://canva.com) to edit the feature images and illustrations throughout the site.
 
 The animated plant and leaf emoji are from [Google's Noto Emoji](https://googlefonts.github.io/noto-emoji-animation/).
 
-My avatars - girl with computer and floppy disk - are commissioned from the talented artist [heyheymomo](http://www.heyheymomo.com/)! Commissions done via [Ko-fi shop](https://ko-fi.com/heyheymomo). 
+## Contact Me
+
+You can email me via this form or via "reply by email" on any page:
+
+<script data-letterbirduser="binarydigit" data-showheader="true" src="https://letterbird.co/embed/v1.js"></script>
+
+
+## Support
+
+If you like what I do and would like to send support, buy me a coffee! <a href="https://ko-fi.com/binarydigit" target="_blank"><img class="nozoom" src="https://binarycdn.b-cdn.net/sparklemug.gif" alt="BinaryDigit on ko-fi.com" width="15%"></a>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeblogPoMo on B&#39;s Garden City</title>
+    <link>https://binarydigit.city/tags/weblogpomo/</link>
+    <description>Recent content in WeblogPoMo on B&#39;s Garden City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
+    
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/tags/weblogpomo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello WeblogPoMo in 2024</title>
+      <link>https://binarydigit.city/notes/hello-weblogpomo-in-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/hello-weblogpomo-in-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/hello-weblogpomo-in-2024/feature-helloweblogpomo.png" />
+    </item>
+    
+  </channel>
+</rss>

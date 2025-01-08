@@ -1,22 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on B&#39;s Digital Garden</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on B&#39;s Digital Garden</description>
+    <title>Tags on B&#39;s Garden City</title>
+    <link>https://binarydigit.city/tags/</link>
+    <description>Recent content in Tags on B&#39;s Garden City</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hi@binarydigit.city (B)</managingEditor>
-    <webMaster>hi@binarydigit.city (B)</webMaster>
-    <copyright>2024 BinaryDigit</copyright>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
+    
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://binarydigit.city/tags/sketch/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/sketch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twitch</title>
+      <link>https://binarydigit.city/tags/twitch/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/twitch/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <author>hi@binarydigit.city (B)</author>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <link>https://binarydigit.city/tags/thoughts/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/thoughts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://binarydigit.city/tags/tech/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WeblogPoMo</title>
+      <link>https://binarydigit.city/tags/weblogpomo/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/weblogpomo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://binarydigit.city/tags/github/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neocities</title>
+      <link>https://binarydigit.city/tags/neocities/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/neocities/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Small Web</title>
+      <link>https://binarydigit.city/tags/small-web/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/small-web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Defaults</title>
+      <link>https://binarydigit.city/tags/defaults/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/defaults/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fun</title>
+      <link>https://binarydigit.city/tags/fun/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/fun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nostalgia</title>
+      <link>https://binarydigit.city/tags/nostalgia/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/nostalgia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>https://binarydigit.city/tags/goals/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/goals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://binarydigit.city/tags/health/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/tags/health/</guid>
       <description></description>
       
     </item>

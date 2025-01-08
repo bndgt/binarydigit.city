@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Atkinson-Hyperlegible-Regular;
+    src: url('/fonts/Atkinson-Hyperlegible/TTF/Atkinson-Hyperlegible-Regular-102.ttf');
+}
+
+@font-face {
+    font-family: Atkinson-Hyperlegible-Bold;
+    src: url('/fonts/Atkinson-Hyperlegible/TTF/Atkinson-Hyperlegible-Bold-102.ttf');
+}
+
+html {
+    font-family: Atkinson-Hyperlegible-Regular, sans-serif;
+    font-size: 13pt;
+}
+h1 {
+    font-family: Atkinson-Hyperlegible-Bold, sans-serif;
+}       

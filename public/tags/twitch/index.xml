@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitch on B&#39;s Garden City</title>
+    <link>https://binarydigit.city/tags/twitch/</link>
+    <description>Recent content in Twitch on B&#39;s Garden City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
+    
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Sketch | Jan 5</title>
+      <link>https://binarydigit.city/art/january/1-5-25/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/art/january/1-5-25/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/art/january/1-5-25/featured-trash-emote-sketch-1-5-25.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

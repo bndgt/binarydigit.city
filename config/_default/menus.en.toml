@@ -9,17 +9,59 @@
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
-
 [[main]]
  name = "About"
  pageRef = "about"
- weight = 10
- 
+#  weight = 10
+
 [[main]]
-#  name = "RSS"
- url = "https://garden.binarydigit.city/index.xml"
+ name = "Notes"
+ pageRef = "notes"
+#  weight = 50
+
+[[main]]
+ name = "Art"
+ pageRef = "art"
+#  weight = 30
+
+[[main]]
+ name = "Photos"
+ pageRef = "photos"
+#  weight = 40
+
+[[main]]
+ name = "Save"
+ pageRef = "save"
+#  weight = 60
+
+[[subnavigation]]
+ name = "Blog"
+ pre = "mug-hot"
+ url = "https://blog.binarydigit.city"
+ weight = 10
+
+[[subnavigation]]
+ name = "Guestbook"
+ pre = "pencil"
+ url = "https://blog.binarydigit.city/guestbook"
+ weight = 20
+
+
+[[subnavigation]]
+ name = "RSS"
  pre = "rss"
- weight = 90
+ url = "https://binarydigit.city/index.xml"
+ weight = 30
+
+# [[main]]
+#  name = "Notes"
+#  pageRef = "posts"
+#  weight = 60
+
+# [[main]]
+#  name = "Save"
+#  pageRef = "save"
+#  weight = 70
  
 #[[main]]
 #  name = "example sub-menu 1"
@@ -38,12 +80,6 @@
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
@@ -58,7 +94,6 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
 # [[footer]]
 #   name = "Tags"

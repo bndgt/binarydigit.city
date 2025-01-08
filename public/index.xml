@@ -1,54 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B&#39;s Digital Garden</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on B&#39;s Digital Garden</description>
+    <title>Welcome to my digital garden 🌱 on B&#39;s Garden City</title>
+    <link>https://binarydigit.city/</link>
+    <description>Recent content in Welcome to my digital garden 🌱 on B&#39;s Garden City</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hi@binarydigit.city (B)</managingEditor>
-    <webMaster>hi@binarydigit.city (B)</webMaster>
-    <copyright>2024 BinaryDigit</copyright>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
+    <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
+    
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Sketch | Jan 5</title>
+      <link>https://binarydigit.city/art/january/1-5-25/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/art/january/1-5-25/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/art/january/1-5-25/featured-trash-emote-sketch-1-5-25.jpeg" />
+    </item>
+    
+    <item>
+      <title>Daily Sketch | Jan 4</title>
+      <link>https://binarydigit.city/art/january/1-4-25/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/art/january/1-4-25/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/art/january/1-4-25/featured-sketch-1-4-25.jpg" />
+    </item>
+    
+    <item>
+      <title>Daily Sketch | Jan 3</title>
+      <link>https://binarydigit.city/art/january/1-3-25/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/art/january/1-3-25/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/art/january/1-3-25/featured-sketch-1-3-25.jpg" />
+    </item>
+    
+    <item>
+      <title>Posting Artwork</title>
+      <link>https://binarydigit.city/notes/artwork/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/artwork/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/artwork/feature-art.png" />
+    </item>
     
     <item>
       <title>How to Organize 🌱</title>
-      <link>http://localhost:1313/posts/organizing/</link>
+      <link>https://binarydigit.city/notes/organizing/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <author>hi@binarydigit.city (B)</author>
-      <guid>http://localhost:1313/posts/organizing/</guid>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/organizing/</guid>
       <description>How to organize this notebook?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/organizing/feature-seaview-n-QfOQSM8nXCo-unsplash.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/organizing/feature-seaview-n-QfOQSM8nXCo-unsplash.jpg" />
     </item>
     
     <item>
       <title>About Me and this Website</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://binarydigit.city/about/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <author>hi@binarydigit.city (B)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/about/</guid>
       <description>All about this website.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured-bg.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/about/featured-about.png" />
     </item>
     
     <item>
-      <title>Beginning a Garden 🌱</title>
-      <link>http://localhost:1313/posts/beginning/</link>
+      <title>Beginning a Garden? 🌱</title>
+      <link>https://binarydigit.city/notes/beginning/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <author>hi@binarydigit.city (B)</author>
-      <guid>http://localhost:1313/posts/beginning/</guid>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/beginning/</guid>
       <description>A digital home that&amp;rsquo;s ever changing.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/beginning/featured-bg.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/beginning/featured-bg.png" />
     </item>
     
     <item>
-      <title>Link</title>
-      <link>http://localhost:1313/bookmarks/link/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hi@binarydigit.city (B)</author>
-      <guid>http://localhost:1313/bookmarks/link/</guid>
-      <description>All about this website.</description>
+      <title>Photo Feed</title>
+      <link>https://binarydigit.city/photos/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/photos/</guid>
+      <description>A photo stream from some.pics</description>
       
+    </item>
+    
+    <item>
+      <title>Save</title>
+      <link>https://binarydigit.city/save/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/save/</guid>
+      <description>My referrals</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/save/featured-save.png" />
+    </item>
+    
+    <item>
+      <title>Always Tinkering</title>
+      <link>https://binarydigit.city/notes/always-tinkering/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/always-tinkering/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/always-tinkering/feature-tinkering.png" />
+    </item>
+    
+    <item>
+      <title>Hello WeblogPoMo in 2024</title>
+      <link>https://binarydigit.city/notes/hello-weblogpomo-in-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/hello-weblogpomo-in-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/hello-weblogpomo-in-2024/feature-helloweblogpomo.png" />
+    </item>
+    
+    <item>
+      <title>Migrating my Hugo Website to Neocities and Deploying with GitHub Actions</title>
+      <link>https://binarydigit.city/notes/neocities-github-actions/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/neocities-github-actions/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/neocities-github-actions/feature-neocities.png" />
+    </item>
+    
+    <item>
+      <title>Small Web Blogs Compared - Updated</title>
+      <link>https://binarydigit.city/notes/small-web-blogs/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/small-web-blogs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/small-web-blogs/feature-blog-compare.png" />
+    </item>
+    
+    <item>
+      <title>App Defaults</title>
+      <link>https://binarydigit.city/notes/app-defaults/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/app-defaults/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/app-defaults/feature-dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg" />
+    </item>
+    
+    <item>
+      <title>The Joy of Old Tech Shows</title>
+      <link>https://binarydigit.city/notes/the-joy-of-old-tech-shows/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/the-joy-of-old-tech-shows/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/the-joy-of-old-tech-shows/feature-techtv.png" />
+    </item>
+    
+    <item>
+      <title>Goals for February</title>
+      <link>https://binarydigit.city/notes/feb2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/feb2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/feb2024/feature-feb-2024.png" />
+    </item>
+    
+    <item>
+      <title>Goals for January</title>
+      <link>https://binarydigit.city/notes/goals2024/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/notes/goals2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/goals2024/feature-goals.png" />
     </item>
     
   </channel>
