@@ -22,13 +22,11 @@ I've started a small creative newsletter where I share personal art, sketches, p
 
 ## Colophon
 
-This site is powered by the SSG [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) Hugo template.
+This site is powered by the SSG [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) Hugo template and hosted on [Netlify](https://app.netlify.com/).
 
-Comments are powered by self-hosted [Commentario](https://comentario.app/). I might remove them at some point if they aren't useful.
+Comments are powered by self-hosted [Commentario](https://comentario.app/). 
 
 My [personal blog](https://blog.binarydigit.city) is hosted on [Pika.page](https://pika.page).
-
-I host this on [Neocities](https://neocities.org/site/binarydigit) and [Codeberg](https://codeberg.org/binarydigit) deploy it with Git hooks.
 
 I subscribe to [Canva](https://canva.com) to edit the feature images and illustrations throughout the site.
 

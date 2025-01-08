@@ -8,6 +8,4 @@ Run locally:
 
 ```hugo server --baseURL=https://binarydigit.city/ --appendPort=false```
 
-Then git hook
-
-```printf '#!/bin/sh\nneocities push public' >.git/hooks/pre-push && \ chmod u+x .git/hooks/pre-push```
+Push /public
