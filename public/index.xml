@@ -9,7 +9,17 @@
     <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
     <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
     
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Sketch | Jan 8</title>
+      <link>https://binarydigit.city/art/january/1-8-25/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/art/january/1-8-25/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/art/january/1-8-25/featured-1-8-25.jpeg" />
+    </item>
     
     <item>
       <title>Daily Sketch | Jan 5</title>
@@ -32,7 +42,7 @@
     </item>
     
     <item>
-      <title>Jan 3</title>
+      <title>Daily Sketch | Jan 3</title>
       <link>https://binarydigit.city/art/january/1-3-25/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>hi@binarydigit.city (BinaryDigit)</author>
