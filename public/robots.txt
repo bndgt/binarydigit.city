@@ -1,7 +1,3 @@
-User-agent: *
-Disallow: /
-Sitemap: http://binarydigit.city/sitemap.xml
-
 User-agent: AI2Bot
 User-agent: Ai2Bot-Dolma
 User-agent: Amazonbot
@@ -14,6 +10,7 @@ User-agent: ChatGPT-User
 User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
 User-agent: Diffbot
 User-agent: DuckAssistBot
 User-agent: FacebookBot
@@ -38,6 +35,7 @@ User-agent: PanguBot
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: Scrapy
+User-agent: SemrushBot
 User-agent: Sidetrade indexer bot
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
