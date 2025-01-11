@@ -52,6 +52,16 @@
     </item>
     
     <item>
+      <title>Techcore Feed</title>
+      <link>https://binarydigit.city/techcore/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/techcore/</guid>
+      <description>A photo feed from Tumblr</description>
+      
+    </item>
+    
+    <item>
       <title>Posting Artwork</title>
       <link>https://binarydigit.city/notes/artwork/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
