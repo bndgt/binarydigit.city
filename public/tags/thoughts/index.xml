@@ -13,32 +13,32 @@
     
     <item>
       <title>Posting Artwork</title>
-      <link>https://binarydigit.city/notes/artwork/</link>
+      <link>https://binarydigit.city/notes/2024/artwork/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
       <author>hi@binarydigit.city (BinaryDigit)</author>
-      <guid>https://binarydigit.city/notes/artwork/</guid>
+      <guid>https://binarydigit.city/notes/2024/artwork/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/artwork/feature-art.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/2024/artwork/feature-art.png" />
     </item>
     
     <item>
       <title>How to Organize 🌱</title>
-      <link>https://binarydigit.city/notes/organizing/</link>
+      <link>https://binarydigit.city/notes/2024/organizing/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <author>hi@binarydigit.city (BinaryDigit)</author>
-      <guid>https://binarydigit.city/notes/organizing/</guid>
+      <guid>https://binarydigit.city/notes/2024/organizing/</guid>
       <description>How to organize this notebook?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/organizing/feature-seaview-n-QfOQSM8nXCo-unsplash.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/2024/organizing/feature-seaview-n-QfOQSM8nXCo-unsplash.jpg" />
     </item>
     
     <item>
       <title>Beginning a Garden? 🌱</title>
-      <link>https://binarydigit.city/notes/beginning/</link>
+      <link>https://binarydigit.city/notes/2024/beginning/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <author>hi@binarydigit.city (BinaryDigit)</author>
-      <guid>https://binarydigit.city/notes/beginning/</guid>
+      <guid>https://binarydigit.city/notes/2024/beginning/</guid>
       <description>A digital home that&amp;rsquo;s ever changing.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/beginning/featured-bg.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/notes/2024/beginning/featured-bg.png" />
     </item>
     
   </channel>
