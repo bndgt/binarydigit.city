@@ -1,4 +1,4 @@
-# My Digital Garden
+# BinaryDigit's Website
 
 https://binarydigit.city
 
