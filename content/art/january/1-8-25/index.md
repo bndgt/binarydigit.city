@@ -1,5 +1,5 @@
 ---
-title:  'Daily Sketch | Jan 8'
+title:  'Sketch | Jan 8'
 date: '2025-01-08'
 showhero: false
 draft:  false
