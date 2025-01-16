@@ -9,7 +9,17 @@
     <managingEditor>hi@binarydigit.city (BinaryDigit)</managingEditor>
     <webMaster>hi@binarydigit.city (BinaryDigit)</webMaster>
     
-    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.city/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Year&#39;s 2024</title>
+      <link>https://binarydigit.city/events/newyear2025/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>hi@binarydigit.city (BinaryDigit)</author>
+      <guid>https://binarydigit.city/events/newyear2025/</guid>
+      <description>A page for the 32bit Cafe New Year&amp;rsquo;s event!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.city/events/newyear2025/featured-newyear2025.png" />
+    </item>
     
     <item>
       <title>New Year on the Site</title>

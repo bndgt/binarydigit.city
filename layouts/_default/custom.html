@@ -1,5 +1,4 @@
 {{ define "main" }}
-<center>
   <article class="max-w-full">
     <header>
       {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
@@ -16,5 +15,4 @@
       {{ partial "sharing-links.html" . }}
     </footer>
   </article>
-</center>
 {{ end }}
