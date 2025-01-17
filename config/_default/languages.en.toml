@@ -24,6 +24,7 @@ title = "B's Garden City"
    links = [
           { envelope = "https://letterbird.co/binarydigit" },
           { link = "https://links.binarydigit.city" },
+          { mastodon = "https://social.lol/@binarydigit" },
           { github = "https://github.com/bndgt"},
           { twitch = "https://twitch.tv/binarydigit" },
           { ko-fi = "https://ko-fi.com/binarydigit" },
