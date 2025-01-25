@@ -1,0 +1,3 @@
+[submodule "lizcomputer/hugo-theme-console"]
+	path = lizcomputer/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git

@@ -2,8 +2,9 @@
 title:  'About Me and this Website'
 date: '2024-12-01'
 draft:  false
-summary: All about this website.
+summary: All about this website
 showauthor: true
+showdate: false
 ---
 
 ## About Me

@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my digital garden 🌱"
-description: "A collection of ever changing notes and ideas."
+title: "Hi, I'm B 👋🏽"
+description: "A creative spirit stuck in tech burnout"
 ---
 
 <script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@latest/snow-fall.js"></script>

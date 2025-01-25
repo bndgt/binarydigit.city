@@ -43,10 +43,10 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "binarydigit-bg.png" # used in: hero, and card
+  homepageImage = "bg-lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/notes/"
   cardView = true
   cardViewScreenWidth = false
@@ -80,7 +80,7 @@ smartTOCHideUnfocusedChildren = true
   # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
   showComments = false
